@@ -22,3 +22,13 @@ npx tailwindcss init
 npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-tilt react-vertical-timeline-component @emailjs/browser framer-motion react-router-dom
 
 <!-- setup the project  constants, asset, components, public tailwind.config.js -->
+
+<!-- install tailwind postcss auto prefixer -->
+
+npm install --legacy-peer-deps -D postcss autoprefixer
+npx tailwindcss init -p
+
+<!-- tech used -->
+
+Three.js 3d
+Tailwind css
