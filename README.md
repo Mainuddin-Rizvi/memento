@@ -28,6 +28,10 @@ npm install --legacy-peer-deps @react-three/fiber @react-three/drei maath react-
 npm install --legacy-peer-deps -D postcss autoprefixer
 npx tailwindcss init -p
 
+<!-- install three during create component of canva  -->
+
+npm install --legacy-peer-deps three
+
 <!-- tech used -->
 
 Three.js 3d
