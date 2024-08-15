@@ -10,21 +10,22 @@ import {
   reactjs,
   redux,
   tailwind,
-  nodejs,
   mongodb,
   git,
-  figma,
   docker,
-  meta,
-  starbucks,
   isg,
   iimt,
-  tesla,
-  shopify,
   carrent,
   jobit,
   tripguide,
-  threejs,
+  java,
+  springboot,
+  postgres,
+  wildfly,
+  graphql,
+  terraform,
+  kubernetes,
+  jenkins,
 } from "../assets";
 
 export const navLinks = [
@@ -63,6 +64,26 @@ const services = [
 
 const technologies = [
   {
+    name: "Java",
+    icon: java,
+  },
+  {
+    name: "Springboot",
+    icon: springboot,
+  },
+  {
+    name: "Graphql",
+    icon: graphql,
+  },
+  {
+    name: "Wildlfy",
+    icon: wildfly,
+  },
+  {
+    name: "Postgres",
+    icon: postgres,
+  },
+  {
     name: "HTML 5",
     icon: html,
   },
@@ -91,28 +112,28 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
-  },
-  {
     name: "MongoDB",
     icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
   {
     name: "git",
     icon: git,
   },
   {
-    name: "figma",
-    icon: figma,
-  },
-  {
     name: "docker",
     icon: docker,
+  },
+  {
+    name: "Jenkins",
+    icon: jenkins,
+  },
+  {
+    name: "Terraform",
+    icon: terraform,
+  },
+  {
+    name: "Kubernetes",
+    icon: kubernetes,
   },
 ];
 

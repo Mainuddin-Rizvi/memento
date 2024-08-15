@@ -20,6 +20,14 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import graphql from "./tech/graphql.png";
+import java from "./tech/java.png";
+import terraform from "./tech/terraform.png";
+import kubernetes from "./tech/kubernetes.png";
+import jenkins from "./tech/jenkins.png";
+import springboot from "./tech/springboot.png";
+import wildfly from "./tech/wildfly.png";
+import postgres from "./tech/postgres.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -63,4 +71,13 @@ export {
   carrent,
   jobit,
   tripguide,
+  wildfly,
+  java,
+  terraform,
+  kubernetes,
+  jenkins,
+  postgres,
+  wildfly,
+  springboot,
+  graphql,
 };
