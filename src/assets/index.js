@@ -35,6 +35,9 @@ import tripguide from "./tripguide.png";
 import harshit from "./testimony/harshit.jpeg";
 import maaz from "./testimony/maaz.jpeg";
 
+import laptop from "./laptop.png";
+import mainuddin from "./mainddin.png";
+
 export {
   logo,
   backend,
@@ -68,4 +71,6 @@ export {
   graphql,
   harshit,
   maaz,
+  laptop,
+  mainuddin,
 };
